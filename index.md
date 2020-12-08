@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 1. My english class, Mr. Luis Samano.
 
-You can use the [editor on GitHub](https://github.com/luissamano/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 2. Vocabulary of the day.
+#### Age
+<img src="https://cdn.pixabay.com/photo/2017/07/22/23/24/cake-2530224_960_720.jpg" alt="Age" width="200"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Male
+<img src="https://www.hghhelp.info/antiagingblog/wp-content/uploads/2011/09/malesymbol.png" alt="Male" width="200" />
 
-### Markdown
+#### Female
+<img src="https://feistyfeminism.files.wordpress.com/2014/04/female-symbol.jpeg" alt="Female" width="200" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Meet
+<img src="https://digitalsenior.sg/wp-content/uploads/2015/08/meet-new-friends.jpg" alt="Meet" width="200" />
 
-```markdown
-Syntax highlighted code block
+#### Spell
+<img src="https://1.bp.blogspot.com/-wSd73tIVK2o/Tf9Lzam-C0I/AAAAAAAAAyY/w8TG3EqUT3U/s640/alphabet.gif" alt="Meet" width="200" />
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 3. Yourself.
+I'm Luis Samano, i have 26 years old and i'm from Leon, Guanajuato.
 
-1. Numbered
-2. List
+## 4. Introduction of two friends or family members.
+1. My Brother is Abraham Samano, her have 22 years old.
+2. My Friend is x , her have 20 years old.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luissamano/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 5. Video
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video>
